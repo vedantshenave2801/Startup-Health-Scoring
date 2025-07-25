@@ -36,7 +36,7 @@ All charts are saved in the `Outputs/` folder.
 
 ---
 
-### ML Add-on (Optional Step)
+### ML Add-on 
 I also added a simple **Linear Regression model** to predict startup valuation based on the input features.  
 It helped me:
 - Check which features affect valuation the most (via coefficients)
